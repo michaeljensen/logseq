@@ -66,13 +66,13 @@
         <key>NSCameraUsageDescription</key>
         <string>We will access your camera when you take a photo, and embed it in your note.</string>
         <key>NSDocumentsFolderUsageDescription</key>
-        <string></string>
+        <string>Allow Logseq to open a folder you pick from Files or a third-party provider.</string>
         <key>NSDownloadsFolderUsageDescription</key>
-        <string></string>
+        <string>Allow Logseq to open files you choose from the Downloads location.</string>
         <key>NSFileProviderDomainUsageDescription</key>
-        <string></string>
+        <string>Allow Logseq to access folders from services like Proton Drive that you pick in the Files app.</string>
         <key>NSFileProviderPresenceUsageDescription</key>
-        <string></string>
+        <string>Allow Logseq to stay connected to the folder you select from a file provider.</string>
         <key>NSMicrophoneUsageDescription</key>
         <string>We will access your microphone to record audio notes</string>
         <key>NSPhotoLibraryAddUsageDescription</key>
